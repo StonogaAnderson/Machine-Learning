@@ -1,0 +1,63 @@
+body {
+
+background-image: url("https://wallpapercave.com/wp/wp2700096.jpg");
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+max-width: 900px;
+margin: auto;
+}
+
+.photo {
+
+    border-radius: 50%;
+    margin: 10px green ;
+}
+
+#title, .subtitle, .post_title {
+
+	color: rgb(110, 158, 20);
+}
+
+#title {
+
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+a {
+text-decoration: underline;
+color:  green;
+
+}
+
+.post_title {
+
+	font-size: 16px;
+    font-family:-apple-system;
+}
+
+.post {
+    background: rgb(148, 213, 250);
+    padding: 20px;
+    border: 3px solid #000;
+    border-radius: 10%;
+    margin: 10px ;
+
+
+}
+
+.post-image {
+
+    width:50%;
+    border: #000;
+}
+
+.contact-list {
+list-style-type: none;
+padding-left: 15px ;
+
+}
+
+.contact-list li a {
+
+    text-decoration: none;
+}
